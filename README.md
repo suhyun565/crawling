@@ -20,8 +20,7 @@
 
 **Project Directory Structure**
 
-![Directory Structure](https://user-images.githubusercontent.com/74871527/186554981-2f0d7b3a-0a6f-4e01-af41-68f2e473df56.png)
+![Directory Structure](https://user-images.githubusercontent.com/74871527/186558859-7eaaf647-88e5-4c02-91e1-032e249d7bcf.jpeg)
 
-![Directory Structure(2)](https://user-images.githubusercontent.com/74871527/186555123-7a5691a5-ade5-4fc4-83c6-4369f7bbe2f3.png)
+![Directory Structure(2)](https://user-images.githubusercontent.com/74871527/186558867-14b2c255-1053-4a92-9888-9d9cc814a84b.jpeg)
 
-![Directory Structure(3)](https://user-images.githubusercontent.com/74871527/186555211-6bd3d2cc-8408-4e05-8c90-4f502c3510c0.png)
